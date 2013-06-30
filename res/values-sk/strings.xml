@@ -37,5 +37,5 @@
     <string name="sign_out_button_name">Odhlásiť sa</string>
     <string name="signed_in_status">Prihlásený.</string>
     <string name="plus_generic_error">Prihlásenie pomocou Google nie je k dispozícii.</string>
-    <string name="progress_message">Prihlásovanie do Google…</string>
+    <string name="progress_message">Prihlasovanie do Google</string>
 </resources>
