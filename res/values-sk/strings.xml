@@ -15,16 +15,27 @@
     <string name="sources_text2">Brandon Valosek</string>
     <string name="sources_text3">CPU Spy Reborn</string>
     <string name="sources_text4">Mirko Dimartino aka Mirko ddd</string>
-<<<<<<< HEAD
-	<string name="device">Zariadenie</string>
-	<string name="mem">Pamäť</string>
-=======
     <string name="device">Zariadenie</string>
     <string name="mem">Pamäť</string>
->>>>>>> 87a0e481efc9a5cf430b9b1622b75efa38ec05e6
+    <string name="device">Zariadenie</string>
+    <string name="mem">Pamäť</string>
     <string name="contributors">Prispievatelia</string>
     <string name="translators">Prekladatelia</string>
     <string name="testers">Testeri</string>
     <string name="sh_title">Kliknite na celkový čas</string>
     <string name="sh_summary">pre aktualizáciu stavov.</string>
+    <string name="freq_range">Rozsah frekvencií</string>
+    <string name="no_connection">Žiadne pripojenie k internetu</string>
+    <string name="themes">Témy</string>
+    <string name="choosetheme">Vyberte tému</string>
+    <string name="mainscreen">Hlavná obrazovka</string>
+    <string name="sharescreen">Zdieľacia obrazovka</string>
+    <string name="settings">Nastavenia</string>
+    <string name="googleplus">Podpora</string>
+    <string name="sharestats">Zdieľať štatistiky</string>
+    <string name="invitetoshare">Pozvať na zdieľanie</string>
+    <string name="sign_out_button_name">Odhlásiť sa</string>
+    <string name="signed_in_status">Prihlásený.</string>
+    <string name="plus_generic_error">Prihlásenie pomocou Google nie je k dispozícii.</string>
+    <string name="progress_message">Prihlásovanie do Google…</string>
 </resources>
